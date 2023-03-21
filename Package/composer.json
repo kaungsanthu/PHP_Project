@@ -1,0 +1,11 @@
+{
+    "name": "kst/app",
+    "authors": [
+        {
+            "name": "Kaung"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.66"
+    }
+}
